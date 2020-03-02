@@ -161,3 +161,4 @@ icp:
   enable: false
   url: 'http://www.beian.miit.gov.cn/' # 备案链接
   text: '浙ICP备88888888' # 备案信息
+theme: jekyll-theme-cayman
